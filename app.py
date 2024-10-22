@@ -19,7 +19,7 @@ def main():
                 # Setting up headers for the API request
                 headers = {
                     "Content-Type": "application/json",
-                    "api-key": azure_openai_key  # Use the environment variable for the API key
+                    "api-key":" 22ec84421ec24230a3638d1b51e3a7dc"  # Use the environment variable for the API key
                 }
                 
                 # Data to be sent to Azure OpenAI
